@@ -1,0 +1,32 @@
+[
+  {
+    "pictureUrl": "https://loremflickr.com/1020/1100/house",
+    "price": 4996500,
+    "address": "38519 Welch Spurs"
+  },
+  {
+    "pictureUrl": "https://loremflickr.com/1340/1260/house",
+    "price": 3210000,
+    "address": "3581 Gloria Junctions"
+  },
+  {
+    "pictureUrl": "https://loremflickr.com/1220/1060/house",
+    "price": 2846000,
+    "address": "4320 Furman Port"
+  },
+  {
+    "pictureUrl": "https://loremflickr.com/1080/760/house",
+    "price": 7638000,
+    "address": "007 Crooks Haven"
+  },
+  {
+    "pictureUrl": "https://loremflickr.com/1180/820/house",
+    "price": 6238000,
+    "address": "350 Swift Knoll"
+  },
+  {
+    "pictureUrl": "https://loremflickr.com/840/800/house",
+    "price": 3727000,
+    "address": "31115 Morar Harbor"
+  }
+]

@@ -1,0 +1,45 @@
+.card {
+  position: relative;
+  border: 1px solid red;
+  width: 100%;
+  margin-block-end: 1rem;
+}
+
+.img {
+  display: inline-block;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.header {
+  position: absolute;
+  top: 1rem;
+  right: 0.5rem;
+  z-index: 1;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-block-start: 1rem;
+}
+
+@media (min-width: 720px) {
+  .card {
+    color: white;
+  }
+  .blackAndWhite {
+    filter: grayscale(100%);
+  }
+  .footer {
+    position: absolute;
+    z-index: 1;
+    bottom: 1rem;
+    left: 0.5rem;
+    right: 0.5rem;
+  }
+}

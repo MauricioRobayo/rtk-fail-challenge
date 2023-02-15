@@ -1,0 +1,16 @@
+.header {
+  padding-block: 0.5rem;
+  display: flex;
+  align-items: baseline;
+  gap: 2rem;
+}
+
+.menu {
+  display: flex;
+  gap: 2rem;
+}
+
+.menu a {
+  color: currentColor;
+  text-decoration: none;
+}

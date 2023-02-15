@@ -1,0 +1,11 @@
+@media (min-width: 720px) {
+  .listing {
+    columns: 2;
+  }
+}
+
+@media (min-width: 1250px) {
+  .listing {
+    columns: 3;
+  }
+}
